@@ -5,7 +5,7 @@ Hello, I'm 2mer 👋
 
 <br />
 
-Im a creative🎨, and VSCode is my canvas 🤓 ... i also dabble with textures [gallery](https://2mer.github.io/gallery)
+Im a creative🎨, and VSCode is my canvas 🤓 ... i also dabble with [textures](https://2mer.github.io/gallery)
 
 Ive started my coding experience through a Lua programming in minecraft (ComputerCraft Mod)
 rolled through java in high school - where i created my own game engines (they were bad), fell in love with javascript and eveything [web dev](https://2mer.github.io/), and then went back to my roots and [modded minecraft](https://white-whistle.github.io/EchoesOfTheElders/). 
